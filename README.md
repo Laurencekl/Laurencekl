@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação na URI Santiago** e estou em constante evolução na área de desenvolvimento de software. Tenho desenvolvido projetos voltados para **aplicações web**, **APIs REST**, **banco de dados** e sistemas completos, buscando aplicar na prática conceitos de **front-end**, **back-end**, integração entre sistemas e organização de código.
+Sou estudante de **Ciência da Computação na URI Santiago** e estou desenvolvendo projetos para aprimorar meus conhecimentos em **desenvolvimento de software**, praticando conceitos de **front-end**, **back-end**, **APIs REST**, **banco de dados**, integração entre sistemas e organização de código.
 
 Atualmente estou estudando e praticando desenvolvimento com foco em:
 
