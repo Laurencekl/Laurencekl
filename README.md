@@ -1,4 +1,3 @@
-```md
 # Olá, eu sou o Laurence Miguel 👋
 
 
@@ -112,5 +111,3 @@ O projeto possui layout visual, seções informativas e elementos de navegação
 - GitHub: [@Laurencekl](https://github.com/Laurencekl)
 - LinkedIn: [Laurence Miguel Kath Lombaldo](https://www.linkedin.com/in/laurence-miguel-kath-lombaldo-5088b4297/)
 - Instagram: [@l4urencekl](https://www.instagram.com/l4urencekl/)
-
-```
