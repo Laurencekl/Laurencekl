@@ -1,6 +1,5 @@
 # Olá, eu sou o Laurence Miguel 👋
 
-
 <p align="center">
   Estudante de Ciência da Computação | Desenvolvedor em formação | Apaixonado por tecnologia
 </p>
@@ -9,26 +8,16 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação na URI Santiago** e estou em constante evolução na área de desenvolvimento de software.
+Sou estudante de **Ciência da Computação na URI Santiago** e estou em constante evolução na área de desenvolvimento de software. Tenho desenvolvido projetos voltados para **aplicações web**, **APIs REST**, **banco de dados** e sistemas completos, buscando aplicar na prática conceitos de **front-end**, **back-end**, integração entre sistemas e organização de código.
 
-Tenho desenvolvido projetos voltados para **aplicações web**, **APIs REST**, **banco de dados** e sistemas completos, buscando praticar tanto o front-end quanto o back-end.
+Atualmente estou estudando e praticando desenvolvimento com foco em:
 
-Gosto de aprender criando projetos reais, entendendo como as telas, regras de negócio, banco de dados e integrações funcionam juntas dentro de uma aplicação.
-
----
-
-## 📚 Atualmente estudando
-
-No momento, estou aprofundando meus conhecimentos em desenvolvimento web, praticando tanto o lado visual das aplicações quanto a parte de lógica, APIs e banco de dados.
-
-Tenho estudado e desenvolvido projetos com foco em:
-
-- Criação de interfaces com HTML, CSS, JavaScript e React
-- Desenvolvimento back-end utilizando Java e Spring Boot
-- Integração com bancos de dados como MySQL e PostgreSQL
-- Construção e consumo de APIs REST
-- Versionamento de código com Git e GitHub
-- Noções de Docker e publicação de aplicações
+* Front-end com HTML, CSS, JavaScript e React
+* Back-end com Java e Spring Boot
+* Banco de dados com MySQL e PostgreSQL
+* APIs REST
+* Git e GitHub
+* Docker e deploy de aplicações
 
 ---
 
@@ -52,35 +41,31 @@ Tenho estudado e desenvolvido projetos com foco em:
 
 ## 📌 Projetos em destaque
 
-### 🎟️ EventHubAPI
+### 🎟️ EventHub
 
-API REST desenvolvida com **Java e Spring Boot**, voltada para o gerenciamento de eventos, usuários e participantes.
+Sistema web completo para gerenciamento de eventos, desenvolvido com front-end, back-end, banco de dados e integração via API REST.
 
-O projeto conta com funcionalidades como autenticação, cadastro de usuários, criação e edição de eventos, inscrição e cancelamento de participantes, além de recursos administrativos para controle de eventos privados, aprovação de inscrições e organização dos dados da plataforma.
+A plataforma permite que usuários visualizem eventos, realizem inscrições, cancelem participação e acompanhem o status da inscrição. Também possui área administrativa para criação e edição de eventos, gerenciamento de participantes, aprovação de inscrições em eventos privados, avisos e materiais.
 
-**Tecnologias utilizadas:**
+**Back-end — EventHubAPI**
 
-- Java
-- Spring Boot
-- Spring Security
-- MySQL
-- API REST
-- Maven
+API REST desenvolvida com **Java e Spring Boot**, responsável pelas regras de negócio, autenticação, cadastro de usuários, controle de eventos, inscrições e gerenciamento administrativo.
 
----
+**Front-end — Event Creator**
 
-### 🖥️ Event Creator Front-end
-
-Interface web desenvolvida para consumir a API do EventHub, permitindo que usuários visualizem eventos, façam inscrições, cancelem participação e acompanhem seus dados.
-
-Também possui área administrativa para gerenciamento de eventos, participantes, materiais, avisos e aprovações de inscrições em eventos privados.
+Interface web desenvolvida com **React**, **TypeScript** e **Tailwind CSS**, consumindo a API do EventHub para entregar uma experiência visual moderna e responsiva.
 
 **Tecnologias utilizadas:**
 
-- React
-- TypeScript
-- Tailwind CSS
-- API REST
+* Java
+* Spring Boot
+* Spring Security
+* MySQL
+* React
+* TypeScript
+* Tailwind CSS
+* API REST
+* Maven
 
 ---
 
@@ -88,26 +73,20 @@ Também possui área administrativa para gerenciamento de eventos, participantes
 
 Projeto de site informativo inspirado no jogo PUBG Battlegrounds, desenvolvido com foco em estruturação de páginas, estilização e interatividade.
 
-O projeto possui layout visual, seções informativas e elementos de navegação para praticar conceitos de front-end.
-
 **Tecnologias utilizadas:**
 
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Laurence GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurencekl&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurencekl&layout=compact&theme=tokyonight)
+* HTML
+* CSS
+* JavaScript
 
 ---
 
 ## 📫 Contato
 
-- GitHub: [@Laurencekl](https://github.com/Laurencekl)
-- LinkedIn: [Laurence Miguel Kath Lombaldo](https://www.linkedin.com/in/laurence-miguel-kath-lombaldo-5088b4297/)
-- Instagram: [@l4urencekl](https://www.instagram.com/l4urencekl/)
+* GitHub: [@Laurencekl](https://github.com/Laurencekl)
+* LinkedIn: [Laurence Miguel Kath Lombaldo](https://www.linkedin.com/in/laurence-miguel-kath-lombaldo-5088b4297/)
+* Instagram: [@l4urencekl](https://www.instagram.com/l4urencekl/)
+
+---
+
+⭐ Sempre buscando aprender, praticar e evoluir como desenvolvedor.
