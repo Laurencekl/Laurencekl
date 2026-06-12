@@ -1,7 +1,7 @@
 # Olá, eu sou o Laurence Miguel 👋
 
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor em formação | Apaixonado por tecnologia
+  Estudante de Ciência da Computação | Desenvolvedor em formação
 </p>
 
 ---
@@ -41,43 +41,63 @@ Atualmente estou estudando e praticando desenvolvimento com foco em:
 
 ## 📌 Projetos em destaque
 
-### 🎟️ EventHub
+### 🎟️ EventHubAPI — Back-end
 
-Sistema web completo para gerenciamento de eventos, desenvolvido com front-end, back-end, banco de dados e integração via API REST.
+Repositório: [EventHubAPI](https://github.com/phguerrra/EventHubAPI)
 
-A plataforma permite que usuários visualizem eventos, realizem inscrições, cancelem participação e acompanhem o status da inscrição. Também possui área administrativa para criação e edição de eventos, gerenciamento de participantes, aprovação de inscrições em eventos privados, avisos e materiais.
+API REST desenvolvida com **Java** e **Spring Boot** para gerenciamento de eventos, usuários e participantes.
 
-**Back-end — EventHubAPI**
+O back-end é responsável pelas regras de negócio do sistema, autenticação, cadastro de usuários, controle de eventos, inscrições, cancelamentos e recursos administrativos.
 
-API REST desenvolvida com **Java e Spring Boot**, responsável pelas regras de negócio, autenticação, cadastro de usuários, controle de eventos, inscrições e gerenciamento administrativo.
+**Principais funcionalidades:**
 
-**Front-end — Event Creator**
+* Cadastro e login de usuários
+* Autenticação e controle de acesso
+* CRUD de eventos
+* Inscrição e cancelamento de participantes
+* Controle de eventos públicos e privados
+* Aprovação de inscrições pelo administrador
+* Gerenciamento de usuários e participantes
+* Integração com banco de dados
 
-Interface web desenvolvida com **React**, **TypeScript** e **Tailwind CSS**, consumindo a API do EventHub para entregar uma experiência visual moderna e responsiva.
+**Tecnologias:**
 
-**Tecnologias utilizadas:**
+`Java` `Spring Boot` `Spring Security` `MySQL` `API REST` `Maven`
 
-* Java
-* Spring Boot
-* Spring Security
-* MySQL
-* React
-* TypeScript
-* Tailwind CSS
-* API REST
-* Maven
+---
+
+### 🖥️ Event Creator FE — Front-end
+
+Repositório: [event-creator-FE](https://github.com/severo-bernardo04/event-creator-FE)
+
+Interface web desenvolvida para consumir a API do EventHub, permitindo que usuários visualizem eventos, realizem inscrições, acompanhem o status da participação e acessem recursos do sistema.
+
+O front-end também possui uma área administrativa para criação, edição e gerenciamento de eventos, participantes, materiais, avisos e aprovações de inscrições em eventos privados.
+
+**Principais funcionalidades:**
+
+* Tela de login e cadastro
+* Listagem de eventos
+* Página de detalhes do evento
+* Inscrição e cancelamento de participação
+* Exibição de status da inscrição
+* Painel administrativo
+* Aprovação e rejeição de participantes
+* Interface responsiva para desktop e mobile
+
+**Tecnologias:**
+
+`React` `TypeScript` `Tailwind CSS` `API REST`
 
 ---
 
 ### 🎮 PUBG Portfólio
 
-Projeto de site informativo inspirado no jogo PUBG Battlegrounds, desenvolvido com foco em estruturação de páginas, estilização e interatividade.
+Site informativo inspirado no jogo PUBG Battlegrounds, desenvolvido para praticar estruturação de páginas, estilização e interatividade no front-end.
 
-**Tecnologias utilizadas:**
+**Tecnologias:**
 
-* HTML
-* CSS
-* JavaScript
+`HTML` `CSS` `JavaScript`
 
 ---
 
