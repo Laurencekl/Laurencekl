@@ -1,7 +1,7 @@
-# Olá, eu sou o Laurence Miguel 👋
+<h1 align="center">Olá, eu sou o Laurence Miguel</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor em formação
+  Estudante de Ciência da Computação | Desenvolvedor em formação | Apaixonado por tecnologia
 </p>
 
 ---
@@ -41,24 +41,13 @@ Atualmente estou estudando e praticando desenvolvimento com foco em:
 
 ## 📌 Projetos em destaque
 
-### 🎟️ EventHubAPI — Back-end
+### 🎟️ EventHubAPI
+
+API REST desenvolvida com **Java** e **Spring Boot** para gerenciamento de eventos e participantes.
+
+O projeto possui autenticação, registro de usuários, CRUD de eventos, inscrições, cancelamentos e funcionalidades administrativas.
 
 Repositório: [EventHubAPI](https://github.com/phguerrra/EventHubAPI)
-
-API REST desenvolvida com **Java** e **Spring Boot** para gerenciamento de eventos, usuários e participantes.
-
-O back-end é responsável pelas regras de negócio do sistema, autenticação, cadastro de usuários, controle de eventos, inscrições, cancelamentos e recursos administrativos.
-
-**Principais funcionalidades:**
-
-* Cadastro e login de usuários
-* Autenticação e controle de acesso
-* CRUD de eventos
-* Inscrição e cancelamento de participantes
-* Controle de eventos públicos e privados
-* Aprovação de inscrições pelo administrador
-* Gerenciamento de usuários e participantes
-* Integração com banco de dados
 
 **Tecnologias:**
 
@@ -68,22 +57,11 @@ O back-end é responsável pelas regras de negócio do sistema, autenticação, 
 
 ### 🖥️ Event Creator FE — Front-end
 
+Aplicação web desenvolvida com **React**, **TypeScript** e **Tailwind CSS** para consumir a API do EventHub.
+
+Possui telas de login, cadastro, listagem de eventos, detalhes do evento, inscrição, cancelamento, status da participação e painel administrativo responsivo.
+
 Repositório: [event-creator-FE](https://github.com/severo-bernardo04/event-creator-FE)
-
-Interface web desenvolvida para consumir a API do EventHub, permitindo que usuários visualizem eventos, realizem inscrições, acompanhem o status da participação e acessem recursos do sistema.
-
-O front-end também possui uma área administrativa para criação, edição e gerenciamento de eventos, participantes, materiais, avisos e aprovações de inscrições em eventos privados.
-
-**Principais funcionalidades:**
-
-* Tela de login e cadastro
-* Listagem de eventos
-* Página de detalhes do evento
-* Inscrição e cancelamento de participação
-* Exibição de status da inscrição
-* Painel administrativo
-* Aprovação e rejeição de participantes
-* Interface responsiva para desktop e mobile
 
 **Tecnologias:**
 
@@ -93,7 +71,7 @@ O front-end também possui uma área administrativa para criação, edição e g
 
 ### 🎮 PUBG Portfólio
 
-Site informativo inspirado no jogo PUBG Battlegrounds, desenvolvido para praticar estruturação de páginas, estilização e interatividade no front-end.
+Site inspirado em **PUBG Battlegrounds**, criado para praticar estruturação de páginas, estilização e interatividade com **HTML**, **CSS** e **JavaScript**.
 
 **Tecnologias:**
 
