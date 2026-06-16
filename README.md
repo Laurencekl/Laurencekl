@@ -41,7 +41,7 @@ Atualmente estou estudando e praticando desenvolvimento com foco em:
 
 ## 📌 Projetos em destaque
 
-### 🎟️ EventHubAPI
+### 🖥️ EventHubAPI — Back-end do Event Creator
 
 API REST desenvolvida com **Java** e **Spring Boot** para gerenciamento de eventos e participantes.
 
@@ -55,7 +55,7 @@ Repositório: [EventHubAPI](https://github.com/phguerrra/EventHubAPI)
 
 ---
 
-### 🖥️ Event Creator FE — Front-end
+### 🖥️ Event Creator FE — Front-end do Event Creator
 
 Aplicação web desenvolvida com **React**, **TypeScript** e **Tailwind CSS** para consumir a API do EventHub.
 
