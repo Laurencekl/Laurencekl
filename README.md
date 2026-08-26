@@ -1,8 +1,8 @@
-\<h1 align="center">Olá, eu sou Laurence Miguel\</h1>
+<h1 align="center">Olá, eu sou Laurence Miguel 👋</h1>
 
-\<p align="center">
-&#x20; Estudante de Ciência da Computação | Desenvolvedor em formação
-\</p>
+<p align="center">
+  Estudante de Ciência da Computação | Desenvolvedor em formação
+</p>
 
 ---
 
@@ -23,20 +23,20 @@ Atualmente estou estudando e praticando desenvolvimento com foco em:
 
 ## 🛠️ Tecnologias e ferramentas
 
-\<div style="display: inline\_block">\<br>
-&#x20; \<img align="center" alt="HTML" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)">
-&#x20; \<img align="center" alt="CSS" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)">
-&#x20; \<img align="center" alt="JavaScript" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)">
-&#x20; \<img align="center" alt="TypeScript" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)">
-&#x20; \<img align="center" alt="React" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)">
-&#x20; \<img align="center" alt="Node.js" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)">
-&#x20; \<img align="center" alt="Java" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)">
-&#x20; \<img align="center" alt="Spring" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)">
-&#x20; \<img align="center" alt="MySQL" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)">
-&#x20; \<img align="center" alt="PostgreSQL" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)">
-&#x20; \<img align="center" alt="Git" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)">
-&#x20; \<img align="center" alt="Docker" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)">
-\</div>
+<div>
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
 
 ---
 
@@ -48,7 +48,7 @@ API REST desenvolvida com **Java** e **Spring Boot** para gerenciamento de event
 
 O projeto possui autenticação, registro de usuários, CRUD de eventos, inscrições, cancelamentos e funcionalidades administrativas.
 
-Repositório: [EventHubAPI](https://github.com/phguerrra/EventHubAPI)
+🔗 **Repositório:** [EventHubAPI](https://github.com/phguerrra/EventHubAPI)
 
 **Tecnologias:**
 
@@ -56,13 +56,13 @@ Repositório: [EventHubAPI](https://github.com/phguerrra/EventHubAPI)
 
 ---
 
-### 🖥️ Event Creator FE — Front-end do Event Creator
+### 🌐 Event Creator FE — Front-end do Event Creator
 
 Aplicação web desenvolvida com **React**, **TypeScript** e **Tailwind CSS** para consumir a API do EventHub.
 
 Possui telas de login, cadastro, listagem de eventos, detalhes do evento, inscrição, cancelamento, status da participação e painel administrativo responsivo.
 
-Repositório: [event-creator-FE](https://github.com/severo-bernardo04/event-creator-FE)
+🔗 **Repositório:** [event-creator-FE](https://github.com/severo-bernardo04/event-creator-FE)
 
 **Tecnologias:**
 
@@ -88,4 +88,6 @@ Site inspirado em **PUBG Battlegrounds**, criado para praticar estruturação de
 
 ---
 
-&#x20;Sempre buscando aprender, praticar e evoluir como desenvolvedor.
+<p align="center">
+   Sempre buscando aprender, praticar e evoluir como desenvolvedor.
+</p>
