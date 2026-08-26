@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou Laurence Miguel</h1>
+\<h1 align="center">Olá, eu sou Laurence Miguel\</h1>
 
-<p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor em formação
-</p>
+\<p align="center">
+&#x20; Estudante de Ciência da Computação | Desenvolvedor em formação
+\</p>
 
 ---
 
@@ -12,30 +12,31 @@ Sou estudante de **Ciência da Computação na URI Santiago** e estou desenvolve
 
 Atualmente estou estudando e praticando desenvolvimento com foco em:
 
-* Front-end com HTML, CSS, JavaScript e React
-* Back-end com Java e Spring Boot
-* Banco de dados com MySQL e PostgreSQL
-* APIs REST
-* Git e GitHub
-* Docker e deploy de aplicações
+- Front-end com HTML, CSS, JavaScript, TypeScript e React
+- Back-end com Java, Spring Boot e Node.js
+- Banco de dados com MySQL e PostgreSQL
+- APIs REST
+- Git e GitHub
+- Docker e deploy de aplicações
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
+\<div style="display: inline\_block">\<br>
+&#x20; \<img align="center" alt="HTML" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)">
+&#x20; \<img align="center" alt="CSS" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)">
+&#x20; \<img align="center" alt="JavaScript" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)">
+&#x20; \<img align="center" alt="TypeScript" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)">
+&#x20; \<img align="center" alt="React" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)">
+&#x20; \<img align="center" alt="Node.js" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)">
+&#x20; \<img align="center" alt="Java" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)">
+&#x20; \<img align="center" alt="Spring" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)">
+&#x20; \<img align="center" alt="MySQL" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)">
+&#x20; \<img align="center" alt="PostgreSQL" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)">
+&#x20; \<img align="center" alt="Git" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)">
+&#x20; \<img align="center" alt="Docker" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)">
+\</div>
 
 ---
 
@@ -81,10 +82,10 @@ Site inspirado em **PUBG Battlegrounds**, criado para praticar estruturação de
 
 ## 📫 Contato
 
-* GitHub: [@Laurencekl](https://github.com/Laurencekl)
-* LinkedIn: [Laurence Miguel Kath Lombaldo](https://www.linkedin.com/in/laurence-miguel-kath-lombaldo-5088b4297/)
-* Instagram: [@l4urencekl](https://www.instagram.com/l4urencekl/)
+- GitHub: [@Laurencekl](https://github.com/Laurencekl)
+- LinkedIn: [Laurence Miguel Kath Lombaldo](https://www.linkedin.com/in/laurence-miguel-kath-lombaldo-5088b4297/)
+- Instagram: [@l4urencekl](https://www.instagram.com/l4urencekl/)
 
 ---
 
-⭐ Sempre buscando aprender, praticar e evoluir como desenvolvedor.
+&#x20;Sempre buscando aprender, praticar e evoluir como desenvolvedor.
