@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Laurence Miguel 👋</h1>
+<h1 align="center">Olá, eu sou Laurence Miguel</h1>
 
 <p align="center">
   Estudante de Ciência da Computação | Desenvolvedor em formação
